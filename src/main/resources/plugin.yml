@@ -1,0 +1,8 @@
+name: PoisonedWater
+version: '0.1'
+main: lazy.dev.lazyproject.poisonedWater.PoisonedWater
+api-version: '1.21'
+prefix: LazyDev.PoisonedWater
+load: STARTUP
+authors: [ LazyCato0o ]
+description: IDK
